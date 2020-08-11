@@ -1,0 +1,6 @@
+# Ignore downloaded ffmpeg binaries
+ffmpeg/bin
+ffmpeg/doc
+ffmpeg/presets
+ffmpeg/LICENSE.txt
+ffmpeg/README.txt
